@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f98178d1880635409da6f38580e62e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GimmeLove: {instanceID: 0}
+  - GimmeLoveTxt: {instanceID: 0}
+  - green: {fileID: 5074725828515078839, guid: 306dc4534d4e1834f9596c4bc6b67d9d, type: 3}
+  - blue: {fileID: 5074725828515078839, guid: 7d3b3006ff2dbd64f808fa0f88af1e80, type: 3}
+  - purp: {fileID: 5074725828515078839, guid: 4e11d20f09f352548a1af834e51a4ee6, type: 3}
+  - red: {fileID: 5074725828515078839, guid: 268a0eb60fddbe34592aa929250b553a, type: 3}
+  - greenL: {fileID: 1262882759182666641, guid: d293ed600b99416409acb935ffdba80b, type: 3}
+  - blueL: {fileID: 1262882759182666641, guid: 5a9e1e687e3ba8b45b745d8b1d5f0a2a, type: 3}
+  - purpL: {fileID: 1262882759182666641, guid: c85fe68088daedf498de877290908326, type: 3}
+  - redL: {fileID: 1262882759182666641, guid: e5878aff61bef2249b6201be283159d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
